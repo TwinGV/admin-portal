@@ -1,0 +1,17 @@
+{
+  "buttons": [
+    {
+      "id": "btn-1",
+      "title": "Grandstream",
+      "url": "https://dc-grandstream.volga.ru:8089/",
+      "icon": "fas fa-phone",
+      "description": "IP Phone Management System",
+      "color": "#4CAF50",
+      "owner": "admin",
+      "isPrivate": false,
+      "createdAt": "2026-06-23T00:00:00Z",
+      "updatedAt": "2026-06-23T00:00:00Z"
+    }
+  ],
+  "lastUpdated": "2026-06-23T00:00:00Z"
+}
